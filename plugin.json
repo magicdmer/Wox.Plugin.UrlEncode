@@ -1,10 +1,10 @@
 {
     "ID":"3C516D5C7A2A4035B0F06308A74BE039",
     "ActionKeyword":"en",
-    "Name":"Wox.Plugin.UrlEncode",
+    "Name":"Wox.Plugin.UrlEncode.plus",
     "Description":"urlencode or urldecode a string",
     "Author":"magicdmer",
-    "Version":"2.0",
+    "Version":"1.1.0",
     "Language":"csharp",
     "Website":"https://github.com/magicdmer/Wox.Plugin.UrlEncode",
     "IcoPath": "Images\\app.png",
